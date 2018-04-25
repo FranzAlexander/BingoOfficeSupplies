@@ -1,0 +1,5 @@
+AX012,calculator,99,$5.95,calculator.jpg
+AZ052,thumb drive 10gb,20,$7.20,ThumbDrive.jpg
+BA074,hole punch,40,$4.95,HolePunch.jpg
+BH022,ruler,11,$0.55,ruler.jpg
+BT004,Eraser,66,$0.99,Eraser.jpg

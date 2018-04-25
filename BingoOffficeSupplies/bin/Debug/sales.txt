@@ -1,0 +1,4 @@
+1,hole punch,$7.92,5,$37.62,alex,22
+999,Total Sales For:2016/12/19,0,5,$37.62
+From left to right:
+Invoice Number, Product Name, Cost of the product, Amount sold, and the Value of sale.
